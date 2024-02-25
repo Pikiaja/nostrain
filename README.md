@@ -1,0 +1,2 @@
+# nostrain
+testnet
